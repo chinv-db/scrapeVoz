@@ -2,6 +2,9 @@
 Tạo chatbot điểm báo cho Slack: lấy nguồn bài viết từ chuyên mục điểm báo f33 của VozForums
 //https://forums.voz.vn/forumdisplay.php?f=33
 
+
+![Screen](https://2.pik.vn/20181bb69e70-2330-4e8e-a234-a2b99588693e.png)
+
 Chatbot này hoạt động như thế nào?
 - Vào 17h tới 18h mỗi ngày, file Google Script sẽ quét trên f33 của Vozforums, lấy code html của trang 1 và trang 2
 - Mỗi trang có 20 bài viết, vậy có tổng cộng 40 bài viết
